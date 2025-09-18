@@ -20,13 +20,16 @@
 - Delete your environment
 
 ## Lab 1: Image Processing Fundamentals in Python
-**Learning Objectives**
-1.1:
+**Worktime: Sept 24 - Oct 1**
+**DISCUSSION LEADER on Oct 1:** todo sign up here
+****
 - use cv2 to load and show images in rgb and grayscale
 - see image properties
 - understand how you can use image properties to create transformations across image
 
 ## Lab 2:
+**Worktime: Sept 1 - Oct 8**
+**DISCUSSION LEADER on Oct 8:** todo sign up here
 - histogram equalization
 - Convolutions and Kernels
 - Name common kernels
@@ -36,21 +39,25 @@
 - getting jupyter lab together 
 - opening lab 3 in jupyter lab
 
-## Lab 3: Misc
-- What medical imaging data is
-- 
+## Lab 3: Miscellaneous
+**Worktime: Oct 8 - Oct 15**
+**DISCUSSION LEADER on Oct 15:** todo sign up here
+- Loading images with SimpleITK 
+- Manipulating imaging arrays in NumPy/Torch
+- Data augmentation on 2D/3D images using TorchIO
 
-## Lab 4: Image Segmentation
+## Lab 4: Image Segmentation cont
+**Worktime: Oct 15 - Oct 22**
+**DISCUSSION LEADER on Oct 22:** todo sign up here
  
     Object detection vs instance segmentation vs semantic segmentation
     Exploring tools used to annotate images for label generation
     Learning traditional methods: Atlas-based, thresholding-based, and watershed-based methods 
     Segmentation with deep learning
 
-## Lab 5: 
-
-
-## Lab 6: Group Reflection + Presentation
+## Lab 5 + 6: Group Reflection + Presentation
+- buffer for any discussions/labs that people found really hard
+- also 
 
 
 

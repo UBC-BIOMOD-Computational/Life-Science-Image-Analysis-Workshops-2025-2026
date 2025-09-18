@@ -46,7 +46,7 @@
 - Manipulating imaging arrays in NumPy/Torch
 - Data augmentation on 2D/3D images using TorchIO
 
-## Lab 4: Image Segmentation cont
+## Lab 4: Image Segmentation 
 **Worktime: Oct 15 - Oct 22**
 **DISCUSSION LEADER on Oct 22:** todo sign up here
  

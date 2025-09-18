@@ -28,7 +28,10 @@
 - understand how you can use image properties to create transformations across image
   - ie: `cv2.equalizeHist` redistributes the grayscale histogram to equal
 1.3
-- 
+- Understanding and applying spatial filtering techniques in image processing
+- Understand what Gaussian Blur is
+- Understand what Sobel is  
+- Interpreting the effects of filters on grayscale images:
 
 
 

@@ -26,15 +26,35 @@
 - see image properties
 - understand how you can use image properties to create transformations across image
 
-
 ## Lab 2:
 - histogram equalization
 - Convolutions and Kernels
 - Name common kernels
 - Analyze how kernels affect the image
 
-## Lab 3:
+### ASIDE
+- getting jupyter lab together 
+- opening lab 3 in jupyter lab
 
-## Lab 4:
+## Lab 3: Misc
+- What medical imaging data is
+- 
 
-CNN
+## Lab 4: Image Segmentation
+ 
+    Object detection vs instance segmentation vs semantic segmentation
+    Exploring tools used to annotate images for label generation
+    Learning traditional methods: Atlas-based, thresholding-based, and watershed-based methods 
+    Segmentation with deep learning
+
+## Lab 5: 
+
+
+## Lab 6: Group Reflection + Presentation
+
+
+
+# Credits:
+
+We would like to thank Bioinformatics.ca for providing a comphrehensive course outline for us to develop training material on 
+- https://bioinformatics.ca/workshops-all/2024-machine-learning-for-medical-imaging-analysis-pixels-to-predictions-toronto-on/#course-outline

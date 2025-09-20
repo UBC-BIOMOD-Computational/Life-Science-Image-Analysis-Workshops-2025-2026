@@ -2,3 +2,5 @@ SimpleITK
 torch
 torchio
 tcia_utils
+jupyterlab
+ipykernel

@@ -6,10 +6,7 @@
 
 #  To import functions related to NBIA for accessing our DICOM radiology data:
 from tcia_utils import nbia
-import requests
-import json
-import io
-import pandas as pd
+import pandas 
 
 # Use production endpoint instead of test
 baseurl = "https://services.cancerimagingarchive.net/nbia-api/services/v1"

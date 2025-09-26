@@ -20,16 +20,16 @@
 - Delete your environment
 
 ## Lab 1: Image Processing Fundamentals in Python
-**Worktime: Sept 24 - Oct 1**
-**DISCUSSION LEADER on Oct 1:** todo sign up here
+**Worktime: Sept 24 - Oct 8**
+**DISCUSSION LEADER on Oct 8:** todo sign up here
 ****
 - use cv2 to load and show images in rgb and grayscale
 - see image properties
 - understand how you can use image properties to create transformations across image
 
 ## Lab 2:
-**Worktime: Sept 1 - Oct 8**
-**DISCUSSION LEADER on Oct 8:** todo sign up here
+**Worktime: Oct 1 - Oct 15**
+**DISCUSSION LEADER on Oct 15:** todo sign up here
 - histogram equalization
 - Convolutions and Kernels
 - Name common kernels
@@ -40,14 +40,16 @@
 - opening lab 3 in jupyter lab
 
 ## Lab 3: Miscellaneous
-**Worktime: Oct 8 - Oct 15**
-**DISCUSSION LEADER on Oct 15:** todo sign up here
+**Worktime: Oct 8 - Oct 22**
+**DISCUSSION LEADER on Oct 22:** todo sign up here
+- DICOM
+- APIs (briefly)
 - Loading images with SimpleITK 
-- Manipulating imaging arrays in NumPy/Torch
-- Data augmentation on 2D/3D images using TorchIO
+- numpy arrays for images
+- https://scikit-image.org/docs/0.25.x/user_guide/numpy_images.html
 
 ## Lab 4: Image Segmentation 
-**Worktime: Oct 15 - Oct 22**
+**Worktime: Oct 22 - Oct 22**
 **DISCUSSION LEADER on Oct 22:** todo sign up here
  
     Object detection vs instance segmentation vs semantic segmentation
@@ -57,8 +59,14 @@
 
 ## Lab 5 + 6: Group Reflection + Presentation
 - buffer for any discussions/labs that people found really hard
-- also 
+- scikit images and filtering and building a mask
 
+##
+
+
+# unknown
+- Manipulating imaging arrays in NumPy/Torch
+- Data augmentation on 2D/3D images using TorchIO
 
 
 # Credits:

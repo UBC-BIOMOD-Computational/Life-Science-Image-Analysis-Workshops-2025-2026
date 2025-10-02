@@ -21,6 +21,7 @@
 
 ## Lab 1: Image Processing Fundamentals in Python
 **Worktime: Sept 24 - Oct 8**
+
 **DISCUSSION LEADER on Oct 8:** Jack Xu
 ****
 - use cv2 to load and show images in rgb and grayscale
@@ -29,6 +30,7 @@
 
 ## Lab 2:
 **Worktime: Oct 1 - Oct 15**
+
 **DISCUSSION LEADER on Oct 15:** todo sign up here
 - histogram equalization
 - Convolutions and Kernels
@@ -41,6 +43,7 @@
 
 ## Lab 3: Miscellaneous
 **Worktime: Oct 8 - Oct 22**
+
 **DISCUSSION LEADER on Oct 22:** todo sign up here
 - DICOM
 - APIs (briefly)
@@ -48,23 +51,24 @@
 - numpy arrays for images
 - https://scikit-image.org/docs/0.25.x/user_guide/numpy_images.html
 
-## Lab 4: Image Segmentation 
-**Worktime: Oct 22 - Oct 22**
-**DISCUSSION LEADER on Oct 22:** todo sign up here
- 
+## Lab 4: Image Segmentation  
+**Worktime: Oct 22 - Oct 29**
+
+**DISCUSSION LEADER on Oct 29:** todo sign up here
+ - what is image segmentation even
+   
     Object detection vs instance segmentation vs semantic segmentation
     Exploring tools used to annotate images for label generation
-    Learning traditional methods: Atlas-based, thresholding-based, and watershed-based methods 
-    Segmentation with deep learning
+    Learning traditional methods: Atlas-based, thresholding-based, and watershed-based methods
 
-## Lab 5 + 6: Group Reflection + Presentation
-- buffer for any discussions/labs that people found really hard
-- scikit images and filtering and building a mask
+## Lab 5: Image Segmentation  
+**Worktime: Oct 30 - Nov 5 **
 
-##
+**DISCUSSION LEADER on Nov 5:** todo sign up here
 
+-  Segmentation with deep learning
 
-# unknown
+#### unknown
 - Manipulating imaging arrays in NumPy/Torch
 - Data augmentation on 2D/3D images using TorchIO
 

@@ -21,7 +21,7 @@
 
 ## Lab 1: Image Processing Fundamentals in Python
 **Worktime: Sept 24 - Oct 8**
-**DISCUSSION LEADER on Oct 8:** todo sign up here
+**DISCUSSION LEADER on Oct 8:** Jack Xu
 ****
 - use cv2 to load and show images in rgb and grayscale
 - see image properties

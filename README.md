@@ -48,8 +48,7 @@
 - DICOM
 - APIs (briefly)
 - Loading images with SimpleITK 
-- numpy arrays for images
-- https://scikit-image.org/docs/0.25.x/user_guide/numpy_images.html
+- using scikit-image for masking
 
 ## Lab 4: Image Segmentation  
 **Worktime: Oct 22 - Oct 29**

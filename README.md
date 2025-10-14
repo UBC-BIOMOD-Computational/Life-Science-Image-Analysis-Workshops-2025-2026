@@ -42,13 +42,13 @@
 - opening lab 3 in jupyter lab
 
 ## Lab 3: Miscellaneous
-**Worktime: Oct 8 - Oct 22**
+**Worktime: Oct 15 - Oct 22**
 
 **DISCUSSION LEADER on Oct 22:** todo sign up here
 - DICOM
 - APIs (briefly)
 - Loading images with SimpleITK 
-- using scikit-image for masking
+- Using scikit-image for thresholding + masking
 
 ## Lab 4: Image Segmentation  
 **Worktime: Oct 22 - Oct 29**

@@ -1,6 +1,5 @@
 SimpleITK
-torch
-torchio
+skimage
 tcia_utils
 jupyterlab
 ipykernel

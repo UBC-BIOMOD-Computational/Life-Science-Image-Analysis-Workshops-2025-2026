@@ -48,7 +48,7 @@
 - DICOM
 - APIs (briefly)
 - Loading images with SimpleITK 
-- Using scikit-image for thresholding + masking
+- Using scikit-image for thresholding
 
 ## Lab 4: Image Segmentation  
 **Worktime: Oct 22 - Oct 29**
@@ -80,6 +80,5 @@ We would like to thank Bioinformatics.ca for providing a comphrehensive course o
 
 ```python
 # for Charity to duplicate notebooks 
-jupyter nbconvert --ClearOutputPreprocessor.enabled=True \
-  --to notebook --output=lab3 lab3_solutions.ipynb
+jupyter nbconvert --ClearOutputPreprocessor.enabled=True --to notebook --output=lab3 lab3_solution.ipynb
 ```

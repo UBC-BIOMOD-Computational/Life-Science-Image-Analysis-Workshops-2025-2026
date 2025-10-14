@@ -76,3 +76,10 @@
 
 We would like to thank Bioinformatics.ca for providing a comphrehensive course outline for us to develop training material on 
 - https://bioinformatics.ca/workshops-all/2024-machine-learning-for-medical-imaging-analysis-pixels-to-predictions-toronto-on/#course-outline
+
+
+```python
+# for Charity to duplicate notebooks 
+jupyter nbconvert --ClearOutputPreprocessor.enabled=True \
+  --to notebook --output=lab3 lab3_solutions.ipynb
+```

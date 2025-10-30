@@ -66,10 +66,9 @@
 
 **Worktime: Oct 22 - Oct 29**
 
-**DISCUSSION LEADER on Oct 29:** todo sign up here
+**DISCUSSION LEADER on Oct 29:** Charity
 
 - what is image segmentation even
-
 - Object detection vs instance segmentation vs semantic segmentation
 - Trying out traditional methods: thresholding-based (thresholds, otsu
   (histogram)), region based: Atlas-based and watershed-based methods, edge
@@ -77,9 +76,9 @@
 
 ## Lab 5: Image Segmentation
 
-**Worktime: Oct 30 - Nov 5 **
+**Worktime: Oct 30 - Nov 5**
 
-**DISCUSSION LEADER on Nov 5:** todo sign up here
+**DISCUSSION LEADER on Oct 29:** Charity
 
 - Segmentation with deep learning
 
@@ -94,6 +93,9 @@ We would like to thank Bioinformatics.ca for providing a comphrehensive course
 outline for us to develop training material on image segmentation
 
 - https://bioinformatics.ca/workshops-all/2024-machine-learning-for-medical-imaging-analysis-pixels-to-predictions-toronto-on/#course-outline
+- https://www.v7labs.com/blog/image-segmentation-guide
+- https://medium.com/@VK_Venkatkumar/segmentation-traditional-deep-learning-approaches-edd50a3308b3
+- https://www.ibm.com/think/topics/convolutional-neural-networks#763338459
 
 ```python
 # for Charity to duplicate notebooks 
